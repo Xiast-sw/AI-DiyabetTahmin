@@ -3,7 +3,7 @@
 Bu proje, hastaların diyabet riskini tahmin etmek için bir makine öğrenimi modeli geliştirmeyi amaçlamaktadır. Kullanıcıdan alınan çeşitli sağlık verileri (BMI, kan basıncı, glukoz seviyesi vb.) kullanılarak, hastanın diyabet riski belirlenmektedir.
 
 
-####Proje, aşağıdaki özelliklere sahip bir veri seti kullanmaktadır:
+#### Proje, aşağıdaki özelliklere sahip bir veri seti kullanmaktadır:
 
 ***BMI:*** Vücut Kütle İndeksi<br>
 ***Kan Basıncı:*** Sistolik ve diastolik değerler<br>
