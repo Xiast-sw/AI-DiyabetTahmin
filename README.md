@@ -16,5 +16,3 @@ Bu proje, hastaların diyabet riskini tahmin etmek için bir makine öğrenimi m
 ### Kullanılan Algoritma
 Proje, K-Nearest Neighbors (KNN) algoritmasını kullanmaktadır. KNN, belirli bir veri noktasının sınıfını, en yakın komşularının sınıfına bakarak belirleyen bir algoritmadır. Bu projede, kullanıcıdan alınan sağlık verileri (BMI, kan basıncı, glukoz düzeyi, vb.) kullanılarak diyabet riski tahmin edilmektedir.
 
-## Katkıda Bulunanlar
- ***Adil Buğra AYTAR***
