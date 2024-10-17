@@ -1,18 +1,19 @@
-# Diyabet Tahmin Projesi - AI
-### Proje Hakkında
-Bu proje, hastaların diyabet riskini tahmin etmek için bir makine öğrenimi modeli geliştirmeyi amaçlamaktadır. Kullanıcıdan alınan çeşitli sağlık verileri (BMI, kan basıncı, glukoz seviyesi vb.) kullanılarak, hastanın diyabet riski belirlenmektedir.
+# AI Diyabet Tahmini
 
+Bu proje, diyabet hastalığını tahmin etmek için makine öğrenimi teknikleri kullanan bir Python uygulamasıdır. Projede çeşitli algoritmalar kullanılarak diyabet teşhisi için modeller geliştirilmiştir.
 
-#### Proje, aşağıdaki özelliklere sahip bir veri seti kullanmaktadır:
+## Proje Hakkında
 
-***BMI:*** Vücut Kütle İndeksi<br>
-***Kan Basıncı:*** Sistolik ve diastolik değerler<br>
-***Glukoz Düzeyi:*** Kan şekeri seviyesi<br>
-***Cilt Kalınlığı:*** Cilt kıvrımı kalınlığı<br>
-***İnsülin:*** Kan insülin düzeyi<br>
-***Yaş:*** Kullanıcının yaşı<br>
-***Diyabet Soy Ağacı:*** Ailede diyabet öyküsü
+Bu proje, diyabet teşhisi için veriyi işleyip çeşitli makine öğrenimi algoritmaları kullanarak tahmin yapmaktadır. Uygulama, **PIMA Indian Diabetes Dataset** kullanarak modelleri eğitmekte ve bu modellerin doğruluğunu ölçmektedir.
 
-### Kullanılan Algoritma
-Proje, K-Nearest Neighbors (KNN) algoritmasını kullanmaktadır. KNN, belirli bir veri noktasının sınıfını, en yakın komşularının sınıfına bakarak belirleyen bir algoritmadır. Bu projede, kullanıcıdan alınan sağlık verileri (BMI, kan basıncı, glukoz düzeyi, vb.) kullanılarak diyabet riski tahmin edilmektedir.
+## Kullanılan Teknolojiler
 
+- Python
+- Jupyter Notebook
+- Pandas
+- Scikit-learn
+- NumPy
+- Matplotlib
+
+## Lisans
+Bu proje MIT lisansı ile lisanslanmıştır.
