@@ -2,7 +2,7 @@
 This project is a Python application that uses machine learning techniques to predict diabetes. Various algorithms are employed to develop models for diabetes diagnosis
 
 
-## 
+## About the Project
 
 Bu proje, diyabet teşhisi için veriyi işleyip çeşitli makine öğrenimi algoritmaları kullanarak tahmin yapmaktadır. Uygulama, **PIMA Indian Diabetes Dataset** kullanarak modelleri eğitmekte ve bu modellerin doğruluğunu ölçmektedir.
 
