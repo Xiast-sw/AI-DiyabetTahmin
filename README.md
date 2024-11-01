@@ -16,5 +16,4 @@ This project processes data and uses various machine learning algorithms to pred
 - NumPy
 - Matplotlib
 
-## Lisans
-Bu proje MIT lisansı ile lisanslanmıştır.
+## 
