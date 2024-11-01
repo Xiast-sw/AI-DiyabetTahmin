@@ -1,4 +1,4 @@
-# AI Diyabet Tahmini
+# 
 
 Bu proje, diyabet hastalığını tahmin etmek için makine öğrenimi teknikleri kullanan bir Python uygulamasıdır. Projede çeşitli algoritmalar kullanılarak diyabet teşhisi için modeller geliştirilmiştir.
 
