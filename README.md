@@ -16,4 +16,5 @@ This project processes data and uses various machine learning algorithms to pred
 - NumPy
 - Matplotlib
 
-## 
+## License
+This project is licensed under the MIT License.
